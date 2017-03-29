@@ -11,11 +11,11 @@
  * 
  * Instructions
  * 1. Install Arduino on the Breadboard
- * 6. Connect Arduino GND to Breadboard Minus line
- * 7. Connect Arduino D1 to long leg in Green LED (Green signal)
- * 8. Connect Arduino D2 to long leg in Yallow LED (Yallow signal) 
- * 9. Connect Arduino D3 to long leg in RED LED (RED signal) 
- * 10. Connect All LEDs short leg to  Breadboard Minus line
+ * 2. Connect Arduino GND to Breadboard Minus line
+ * 3. Connect Arduino D1 to long leg in Green LED (Green signal)
+ * 4. Connect Arduino D2 to long leg in Yallow LED (Yallow signal) 
+ * 5. Connect Arduino D3 to long leg in RED LED (RED signal) 
+ * 6. Connect All LEDs short leg to  Breadboard Minus line
  * 
  */
 
