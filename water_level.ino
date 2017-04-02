@@ -18,8 +18,8 @@
  * 5. Connect Arduino D4 to Ultrasonic Sensor TRIG
  * 6. Connect Arduino GND to Breadboard Minus line
  * 7. Connect Arduino D10 to long leg in LED (high level)
- * 8. Connect Arduino D10 to long leg in LED (medium level) 
- * 9. Connect Arduino D10 to long leg in LED (low level led) 
+ * 8. Connect Arduino D9 to long leg in LED (medium level) 
+ * 9. Connect Arduino D8 to long leg in LED (low level led) 
  * 10. Connect All LEDs short leg to  Breadboard Minus line
  * 
  */
